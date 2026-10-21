@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": "1",
+    "name": "Ali",
+    "email": "ali@example.com"
+  },
+  {
+    "id": "2",
+    "name": "Hammad",
+    "email": "hammad@example.com"
+  },
+  {
+    "id": "3",
+    "name": "Ahmed",
+    "email": "ahmed@example.com"
+  },
+  {
+    "id": "4",
+    "name": "Osama",
+    "email": "osama@example.com"
+  },
+  {
+    "id": "5",
+    "name": "Awais",
+    "email": "awais@example.com"
+  },
+  {
+    "id": "6",
+    "name": "Zain",
+    "email": "zain@example.com"
+  },
+  {
+    "id": "7",
+    "name": "Hassan",
+    "email": "hassan@example.com"
+  },
+  {
+    "id": "8",
+    "name": "Saad",
+    "email": "saad@example.com"
+  },
+  {
+    "id": "9",
+    "name": "Omar",
+    "email": "omar@example.com"
+  },
+  {
+    "id": "10",
+    "name": "Anas",
+    "email": "anas@example.com"
+  }
+]
